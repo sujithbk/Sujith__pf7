@@ -1,0 +1,58 @@
+#contact-section{
+    margin: 100px 0;
+    padding: 0 10vw;
+}
+
+.form{
+    width: 100%;
+    margin-top: -50px;
+    border: 1px black;
+}
+
+.form input, textarea{
+    width: 100%;
+    height: 5vh;
+    font-size: .9rem;
+    padding: 1vw;
+    background-color:var();
+    border: .5px solid  #aba9a9;
+    border-radius: 5px;
+    margin: 10px 0;
+    outline: none;
+}
+
+::textarea{
+    color: #f3ebeb;
+    text-transform: capitalize;
+}
+
+textarea{
+    height: 20vh;
+    font-family: 'roboto', sans-serif;
+    resize: none;
+}
+
+.contact-btn{
+    padding: 10px 20px;
+    background: #181818;
+    color: #fff;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    text-transform: capitalize;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.heading{
+    /* Add your existing styles here */
+
+  /* Center the content */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* Add padding and margin */
+  padding: 20px;
+  margin: 10px;
+}
