@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Sujith__pf7/static/css/main.41b11ac3.css",
+    "main.js": "/Sujith__pf7/static/js/main.a05d7f08.js",
+    "static/js/787.d774eea2.chunk.js": "/Sujith__pf7/static/js/787.d774eea2.chunk.js",
+    "static/media/Sujith s Resume E7.pdf": "/Sujith__pf7/static/media/Sujith s Resume E7.48b6fd4659fe93f78e6a.pdf",
+    "static/media/framehunt.jpeg": "/Sujith__pf7/static/media/framehunt.9cbf238dd67f06b0cbf6.jpeg",
+    "static/media/supic.jpeg": "/Sujith__pf7/static/media/supic.b63641d7275d94219c89.jpeg",
+    "static/media/uber1.webp": "/Sujith__pf7/static/media/uber1.7921584878e9ddebde27.webp",
+    "index.html": "/Sujith__pf7/index.html",
+    "main.41b11ac3.css.map": "/Sujith__pf7/static/css/main.41b11ac3.css.map",
+    "main.a05d7f08.js.map": "/Sujith__pf7/static/js/main.a05d7f08.js.map",
+    "787.d774eea2.chunk.js.map": "/Sujith__pf7/static/js/787.d774eea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41b11ac3.css",
+    "static/js/main.a05d7f08.js"
+  ]
+}
