@@ -1,5 +1,6 @@
 import React from 'react'
-import SuiImg1 from '../../assets/uber1.webp'
+import SuiImg1 from '../../assets/d2.png'
+
 
 function Pro2() {
   return (
@@ -7,7 +8,7 @@ function Pro2() {
     
 
     <div class="filter">
-        <button class="btn filter-btn active"><a id='frame1' href=" https://sujithbk.github.io/web1-uber/">Uber</a></button>
+        <button class="btn filter-btn active"><a id='frame1' href=" https://github.com/sujithbk">NFT Market-place</a></button>
         
     </div>
 
@@ -18,7 +19,7 @@ function Pro2() {
                 <div className="project-thumbnail">
                     <img src={SuiImg1} className="close-btn" alt=""/>
                     <img src={SuiImg1}className="project-img" alt=""/>
-                    <span className="tags">#javascript #css</span>
+                
                 </div>
 
             </div>
